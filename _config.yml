@@ -46,7 +46,7 @@ features:
 
   - title: タスク削除機能
     description: 不要なタスクを削除して、スッキリしたリストを維持。
-    fontawesome_icon_name: delete-left
+    fontawesome_icon_name: trash-alt
 
   - title: 完了タスクチェック
     description: 完了したタスクをチェックし、達成感を得られます。
@@ -54,7 +54,7 @@ features:
 
   - title: オフライン対応
     description: インターネット接続なしでも、タスクの管理が可能です。
-    fontawesome_icon_name: wifi-slash
+    fontawesome_icon_name: globe
 
   - title: Coming Soon...
     description: さらなる機能が続々追加予定です。次回のアップデートをお楽しみに！
