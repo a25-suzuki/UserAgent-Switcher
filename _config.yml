@@ -28,49 +28,45 @@ instagram_username:
 twitter_username:
 github_username:
 youtube_username:
-mastodon_link: https://mastodon.social/@ebaehr
+mastodon_link:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-  - title: GitHub Pages Jekyll Theme
-    description: Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title: シンプルなUI
+    description: 直感的で使いやすいインターフェースを採用。誰でも簡単に操作可能。
     fontawesome_icon_name: magic
 
-  - title: iPhone Device Preview
-    description: Preview your app in the context of an iPhone device. Five different device colors included.
+  - title: タスク追加機能
+    description: 新しいタスクを素早く追加でき、日々の予定を管理できます。
     fontawesome_icon_name: mobile
 
-  - title: Video Support
-    description: Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title: タスク編集機能
+    description: 追加したタスクを後から編集、内容を変更できます。
     fontawesome_icon_name: play-circle
 
-  - title: Automatic Icon and Metadata
-    description: Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title: タスク削除機能
+    description: 不要なタスクを削除して、スッキリしたリストを維持。
     fontawesome_icon_name: sync
 
-  - title: Easy to Tweak
-    description: Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title: 完了タスクチェック
+    description: 完了したタスクをチェックし、達成感を得られます。
     fontawesome_icon_name: adjust
 
-  - title: Feature List
-    description: Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title: オフライン対応
+    description: インターネット接続なしでも、タスクの管理が可能です。
     fontawesome_icon_name: star
 
-  - title: Smart App Banner
-    description: Display a smart app banner on iOS devices.
+  - title: Coming Soon...
+    description: さらなる機能が続々追加予定です。次回のアップデートをお楽しみに！
     fontawesome_icon_name: arrow-alt-circle-down
 
-  - title: Social Links
-    description: Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: link
+  - title: Coming Soon...
+    description: さらなる機能が続々追加予定です。次回のアップデートをお楽しみに！
+    fontawesome_icon_name: arrow-alt-circle-down
 
-  - title: FontAwesome Support
-    description: Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: info-circle
-
-  - title: # New Feature Title
-    description: # New Feature Description
-    fontawesome_icon_name: # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title: Coming Soon...
+    description: さらなる機能が続々追加予定です。次回のアップデートをお楽しみに！
+    fontawesome_icon_name: arrow-alt-circle-down
 
 # Theme Settings
 topbar_color: "#000000"
