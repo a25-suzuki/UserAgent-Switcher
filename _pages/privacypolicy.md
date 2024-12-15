@@ -4,57 +4,90 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
+**最終更新**  
+2024 年 12 月 12 日
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+# プライバシーポリシー
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+Kyotohan（以下「当組織」といいます）は、当組織がアプリ、ウェブサービスその他のサービス（以下あわせて「サービス」といいます）を提供するにあたって、当組織が取得するお客様（以下「ユーザー」といいます）の個人情報の取扱いについて、以下のとおりプライバシーポリシー（以下「本ポリシー」といいます）を定めます。
 
-<br>
-
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
-
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
-
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+本ポリシーのほかに、個別のサービスごとに定められるプライバシーポリシー（以下「個別ポリシー」といいます）がある場合は、個別ポリシーが本ポリシーにあわせて適用されます。本ポリシーにおける定義は、個人情報の保護に関する法律（平成 15 年法律第 57 号。以下「個人情報保護法」といいます）によるものとします。
 
 <br>
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## 1.0 関係法令・ガイドライン等の遵守
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
-
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+当組織は、個人情報保護法その他の関係法令、個人情報保護委員会の定めるガイドライン等および本ポリシーを遵守し、個人情報を適法かつ適正に取り扱います。
 
 <br>
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## 2.0 当組織が取得する情報の項目と取得方法
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+当組織は以下に定めるユーザーの情報を、以下の取得方法により取得する場合があります。当組織はこれらの情報を、適法かつ適正な手段により取得いたします。
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+### 2.1 ユーザーから直接提供いただく情報
+
+- ユーザー名、写真、画像等プロフィールに関する情報
+- メールアドレス等ご連絡先に関する情報
+- ID 等、ご本人確認に必要となる情報
+- お問い合わせフォーム等を通じてご入力いただく情報（メールアドレス、端末情報、お問い合わせ内容等）
+- サービスごとに指定する情報
+- その他上記の各情報に関連する情報
 
 <br>
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+### 2.2 自動取得する情報
+
+- Cookie、広告 ID（IDFA/AAID）等のオンライン識別子、端末の種類、OS バージョン、言語・タイムゾーン設定、ブラウザの種類、アプリのバージョン、Push 通知用デバイストークン、IP アドレス、通信事業者の名称等、端末やアプリ、ネットワークに関する情報,
+- アクセスログ等、サービスのご利用状況や行動履歴に関する情報
+- サービスごとに指定する情報
+- その他上記の各情報に関連する情報
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+### 2.3 第三者から取得する情報
+
+- アプリストアから取得するユーザーのサービス購入に関する情報
+- ユーザーの氏名等個人を識別する情報を有しない第三者が保有する行動履歴などの情報（個人関連情報）※この場合、当組織は当該情報を、当組織が管理するユーザーの情報と紐づけて取得する場合があります。
+- サービスごとに指定する情報
+- その他上記の各情報に関連する情報
+
+<br>
+
+## 3.0 個人情報の利用目的
+
+1. サービスへの登録、本人確認のため
+2. サービスの提供、サービス上で行うユーザーサポート、アフターサービスを実施するため
+3. サービスの運営上必要となる事項を通知するため
+4. サービスその他当組織の事業に関する情報を配信するため
+5. ユーザーからの問い合わせに対応するため
+6. ユーザーの閲覧履歴や購買履歴等の情報を分析して、ユーザーの趣味や嗜好に応じたマーケティングを実施するため
+7. キャンペーンや懸賞を実施するため
+8. サービスの改善および新規サービスの開発に必要となる解析および分析のため
+9. サービス利用代金の請求、返金、支払等および関連する事務処理のため
+10. サービスの利用規約その他当組織が定めるルールに違反する行為への対応、その他サービスの不正利用の調査・検知・予防のため
+11. 本ポリシーまたは個別ポリシーで定める個人データの第三者提供のため
+12. 本ポリシーまたは個別ポリシーの変更を通知するため
+13. 個別ポリシーで定める利用目的のため
+
+<br>
+
+## 4.0 個人データの安全管理措置
+
+当組織は、取り扱う個人データの漏えい、滅失または毀損の防止その他の個人データの安全管理のために必要かつ適切な措置を講じます。また、従業者や委託先（再委託先等を含みます）に個人データを取り扱わせるにあたっては、当該個人データの安全管理が図られるよう、当該従業者や当該受託者に対して必要かつ適切な監督を行います。
+
+<br>
+
+## 5.0 保有個人データ等の開示、訂正等、利用停止等
+
+1. 当組織は、ユーザーから、個人情報保護法の定めに基づき保有個人データもしくは第三者提供記録の開示または保有個人データの利用目的の通知を求められたときは、ユーザーご本人からの請求であることを確認したうえで、遅滞なく開示または通知いたします。ただし、個人情報保護法その他の法令により、当組織が開示または通知する義務を負わない場合はこの限りではありません。
+2. 当組織は、ユーザーから、個人情報保護法の定めに基づき、保有個人データの内容が事実でないとして、当該保有個人データの内容の訂正、追加または削除（以下「訂正等」といいます）を求められたときは、ユーザーご本人からの請求であることを確認したうえで、遅滞なく必要な調査を行い、その結果に基づき、訂正等を行います。ただし、個人情報保護法その他の法令により、当組織が訂正等を行う義務を負わない場合はこの限りではありません。
+3. 当組織は、ユーザーから、個人情報保護法の定めに基づき、保有個人データの利用停止、消去、または第三者への提供の停止（以下「利用停止等」といいます）を求められたときは、ユーザーご本人からの請求であることを確認したうえで、遅滞なく、利用停止等を行います。ただし、個人情報保護法その他の法令により、当組織が利用停止等を行う義務を負わない場合はこの限りではありません。
+4. 前 3 項に定めるお求めをご希望いただく場合は「お問い合わせ窓口」宛までご連絡ください。
+
+<br>
+
+## 3.0 お問い合わせ窓口
+
+当組織の個人情報の取扱いに関するお問い合わせは、下記の窓口までお願いいたします。
+https://xxxxxxxxxx
