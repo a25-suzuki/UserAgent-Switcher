@@ -68,19 +68,22 @@ DoFocus は、シンプルで直感的に使える Todo アプリです。この
 
 <br>
 
-<!-- ## Version 1.0.1
+## **Version 1.2**
 
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
+新機能の追加
 
 #### What's New
 
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- タスクにリマインダー機能の追加
 
-#### Bug Fixes
+<br>
 
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately. -->
+## **Version 1.3**
+
+新機能の追加
+
+#### What's New
+
+- アプリの使い方（チュートリアル機能）の追加
 
 <br>
