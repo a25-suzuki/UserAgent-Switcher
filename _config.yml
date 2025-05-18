@@ -1,8 +1,8 @@
 #page title
-page_title: DoFocus # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title: UserAgent Switcher # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id: 6738879748 # Required. Enter iOS app ID to automatically populate name, price and icon (e.g. 718043190).
+ios_app_id: 6746084006 # Required. Enter iOS app ID to automatically populate name, price and icon (e.g. 718043190).
 ios_app_country: jp # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
@@ -14,7 +14,7 @@ presskit_download_link:
 app_icon: # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: 頭の中をクリアに、行動をスムーズに。
+app_description: PC版/スマホ版Webブラウザの切り替えが簡単
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,24 +36,24 @@ features:
     description: 直感的で使いやすいインターフェースを採用。誰でも簡単に操作可能。
     fontawesome_icon_name: magic
 
-  - title: タスク追加機能
-    description: 新しいタスクを素早く追加でき、日々の予定を管理できます。
+  - title: UserAgent切り替え機能
+    description: PC版Webサイトとスマホ版Webサイトを簡単に切り替えできます。
     fontawesome_icon_name: mobile
 
-  - title: タスク編集機能
-    description: 追加したタスクを後から編集、内容を変更できます。
+  - title: ブックマーク機能
+    description: お気に入りのWebページをブックマークとして保存できます。。
     fontawesome_icon_name: edit
 
-  - title: タスク削除機能
-    description: 不要なタスクを削除して、スッキリしたリストを維持。
+  - title: 履歴機能
+    description: 一般的なブラウザ同様に閲覧ページを履歴として保存できます。
     fontawesome_icon_name: trash-alt
 
-  - title: 完了タスクチェック
-    description: 完了したタスクをチェックし、達成感を得られます。
+  - title: ブラウザ機能
+    description: 基本的なブラウザに搭載される機能を持ちます。
     fontawesome_icon_name: adjust
 
-  - title: オフライン対応
-    description: インターネット接続なしでも、タスクの管理が可能です。
+  - title: 多言語対応
+    description: 日本語、英語、中国語をはじめ多言語に対応したアプリです。
     fontawesome_icon_name: globe
 
   - title: Coming Soon...
